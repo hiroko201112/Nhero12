@@ -1,1 +1,27 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #d0e4fe;
+}
+
+h1 {
+    color: blue;
+    text-align: center;font-size:35px;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+</style>
+</head>
+<body>
+
+<h1>糖鎖の「と」は<br><font color="white">ところてん</font>の「と」</h1>
+<p>....と、言うような嘘に騙されないでください。事実を知りたい方は、<a href="https://www.glytech.jp/">こちら</a></p>
+<title>糖鎖とは</title>
+<title>血液</title>
+</body>
+</html>
