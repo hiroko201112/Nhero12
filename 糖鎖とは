@@ -3,25 +3,25 @@
 <head>
 <style>
 body {
-    background-color: #d0e4fe;
-}
+    background-color: #00000000;}
 
 h1 {
     color: blue;
-    text-align: center;font-size:35px;
+    text-align: center;
 }
 
 p {
     font-family: "Times New Roman";
-    font-size: 15px;
+    font-size: 20px;
 }
 </style>
 </head>
 <body>
 
-<h1>糖鎖の「と」は<br><font color="white">ところてん</font>の「と」</h1>
-<p>....と、言うような嘘に騙されないでください。事実を知りたい方は、<a href="https://www.glytech.jp/">こちら</a></p>
-<title>糖鎖とは</title>
-<title>血液</title>
+<h1>糖鎖って何？</h1>
+<p>　皆さん、「<font color="blue">糖鎖</font>」についてどのようなイメージを持っていますか？
+<br><br>Aさん.「初めて聞いた！」<br>Bさん.「一回習った気がするけど、なんなのか分からない...」
+<br><br>難しいイメージが思い浮かぶかもしれません。<br><strong><font size="7">そんな方でも大丈夫！！！</font></strong></p>
+
 </body>
 </html>
